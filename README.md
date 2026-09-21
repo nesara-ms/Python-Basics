@@ -20,4 +20,4 @@ This repository contains Python programs, concepts, theory notes, and daily prac
 
 The goal of this repository is to learn Python from the fundamentals, practice consistently, and strengthen programming & problem-solving skills.
 
-Programs and concepts are added regularly as part of my learning journey, following Engineering in Kannada tutorials and daily practice exercises.
+Programs and concepts are added regularly as part of my learning journey, following Engineering in Kannada(Youtube Channel) tutorials and daily practice exercises.
