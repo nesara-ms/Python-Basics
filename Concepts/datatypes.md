@@ -24,7 +24,7 @@ Data types specify the type of data a variable can hold in Python.
 
 ## 5. Mapping Type
 
--   **dict** -- key-value pairs, e.g., {"name": "NehaGowda"}
+-   **dict** -- key-value pairs, e.g., {"name": "Nagarjun"}
 
 ## 6. Set Types
 
