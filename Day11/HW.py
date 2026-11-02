@@ -19,7 +19,7 @@ print(squares)
 
 #Example 4-Create a list of 3 dictionaries, where each dictionary contains the name, age, and marks of a student. Loop through the list and print each student's information.
 students = [
-    {"name": "Neha", "age": 20, "marks": 85},
+    {"name": "Neha", "age": 19, "marks": 85},
     {"name": "Kushal", "age": 22, "marks": 90},
     {"name": "Karuna", "age": 19, "marks": 88}
 ]
