@@ -12,8 +12,6 @@ This repository contains Python programs, concepts, theory notes, and daily prac
 🔄 Conditional statements & loops
 📦 Lists, tuples, sets & dictionaries
 ⚙️ Functions
-📁 File handling
-🏗️ Object-Oriented Programming
 🧩 Problem-solving exercises
 🚀 More topics as I progress
 🎯 Purpose
